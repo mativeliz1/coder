@@ -1,0 +1,7 @@
+{
+    "host": "data-engineer-cluster.cyhh5bfevlmn.us-east-1.redshift.amazonaws.com",
+    "dbname": "data-engineer-database",
+    "user": "matiasveliz14_coderhouse",
+    "password": "Jg0Lm2a59u",
+    "port": "5439"
+}
